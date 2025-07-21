@@ -35,10 +35,24 @@
 
 ### 💼 Projects
 
-- **[Socialise](https://socialize-iota.vercel.app)** – A MERN-based social media platform  
-  [GitHub Repository](https://github.com/AnilarK/Socialise)
-- **[TicketPro](https://ticket-pro.onrender.com)** – Customer support ticket management system  
-  [GitHub Repository](https://github.com/AnilarK/ticket_pro)
+<table>
+  <tr>
+    <td><b>🌐 <a href="https://socialize-iota.vercel.app" target="_blank">Socialise</a></b></td>
+    <td>
+      A full-stack social media platform built with the MERN stack.<br/>
+      🔹 Features: Authentication, Image Posts, Likes, Comments, Dark Mode<br/>
+      🔗 <a href="https://github.com/AnilarK/Socialise" target="_blank">GitHub Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🎟️ <a href="https://ticket-pro.onrender.com" target="_blank">TicketPro</a></b></td>
+    <td>
+      A customer support ticket management system designed for scalability.<br/>
+      🔹 Features: JWT Auth, Ticket Lifecycle Management, Responsive UI<br/>
+      🔗 <a href="https://github.com/AnilarK/ticket_pro" target="_blank">GitHub Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
