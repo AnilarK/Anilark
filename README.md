@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
-<h3 align="center">A programmer, developer, and problem solver who completed B.Tech in Computer Science and Engineering from IIITDM Jabalpur</h3>
+<h3 align="center">Computer Science Graduate from IIITDM Jabalpur | Passionate about building scalable systems and solving real-world problems</h3>
 
 ---
 
