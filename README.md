@@ -39,6 +39,12 @@
 
 ---
 
+### 🧑‍💻 My Programming Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilarK&layout=compact&theme=react)
+
+---
+
 ### 💼 Projects
 
 <table>
