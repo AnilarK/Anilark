@@ -33,6 +33,12 @@
 
 ---
 
+### 📊 My GitHub Statistics
+
+![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilarK&show_icons=true&theme=react&rank_icon=percentile)
+
+---
+
 ### 💼 Projects
 
 <table>
