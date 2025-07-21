@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Overview
+### 📊 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnilarK&show_icons=true&theme=react&rank_icon=percentile" height="200"/>
