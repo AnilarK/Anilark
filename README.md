@@ -70,3 +70,11 @@
 - ⭐ **5★ (2016)** on Codechef  
 
 ---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnilarK&theme=react&hide_border=true" />
+</p>
+
+---
