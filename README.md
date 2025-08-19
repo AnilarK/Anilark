@@ -38,6 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AnilarK&show_icons=true&theme=react&rank_icon=percentile" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilarK&layout=compact&theme=react" height="200"/>
 </div>
+
 ---
 
 ### 💼 Projects
