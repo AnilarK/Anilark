@@ -35,8 +35,12 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilarK&show_icons=true&theme=react&rank_icon=percentile" height="180"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnilarK&layout=compact&theme=react" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnilarK&theme=react" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnilarK&theme=react"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnilarK&theme=react"/>
 </p>
 
 ---
