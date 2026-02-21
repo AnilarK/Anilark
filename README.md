@@ -20,6 +20,12 @@
   <a href="https://github.com/AnilarK" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://codeforces.com/profile/AbhayAnilark" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%23EE8208.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/AbhayAnilark/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
   <a href="https://www.codechef.com/users/anilark" target="_blank">
     <img src="https://img.shields.io/badge/Codechef-%235A4F46.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef"/>
   </a>
