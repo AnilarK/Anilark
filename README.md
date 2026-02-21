@@ -32,10 +32,15 @@
 </p>
 
 ---
-### 📊 My GitHub Stats
+### 📊 My Complete GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnilarK&theme=react" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnilarK&theme=react"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnilarK&theme=react&utcOffset=5.5"/>
 </p>
 
 <p align="center">
