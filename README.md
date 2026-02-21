@@ -34,11 +34,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnilarK&theme=react"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnilarK&theme=react&utcOffset=5.5"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnilarK&theme=react"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnilarK&theme=react"/>
 </p>
 
